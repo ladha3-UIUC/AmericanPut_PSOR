@@ -1,5 +1,5 @@
 ## Description
-This repository contains a C++ program that prices American put options with projected SOR method. It originated from Dr. [Aaron D. Saxton](https://www.linkedin.com/in/aaron-d-saxton-phd-60934788)'s assignment. Implementation was done via [GSL](https://www.gnu.org/software/gsl/) 2.1.
+This repository contains a C++ program that prices American put options by projected SOR method. It originated from Dr. [Aaron D. Saxton](https://www.linkedin.com/in/aaron-d-saxton-phd-60934788)'s assignment. Implementation was done via [GSL](https://www.gnu.org/software/gsl/) 2.1.
 
 ## Result
 Plotted via Python:  
