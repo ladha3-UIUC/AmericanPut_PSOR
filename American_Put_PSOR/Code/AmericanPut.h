@@ -19,11 +19,13 @@ public:
 	American() {
 		N = 10;
 		M = 100;
+		
 		r = 0.01;
 		sigma = 0.2;
 		K = 100;
 		S_max = 100;
 		T = 1;
+		
 		omega = 1.0;
 	}
 
